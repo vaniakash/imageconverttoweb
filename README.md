@@ -1,10 +1,7 @@
 # Batch WebP Image Converter
 
-![Batch WebP Converter](https://raw.githubusercontent.com/vaniakash/imageconverttoweb/master/screenshots/banner.png)
-
 A React.js web application that allows users to convert multiple images (JPG, PNG, etc.) to WebP format using purely client-side processing. WebP is a modern image format that provides superior lossless and lossy compression for images on the web, making your websites faster and more efficient.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://vaniakash.github.io/imageconverttoweb)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/vaniakash/imageconverttoweb)
 
 ## 🚀 Features
